@@ -39,7 +39,7 @@ Además, incorpora validación de entradas, manejo de errores y almacenamiento d
 
 **🎯 Objetivo del proyecto:** fortalecer mis habilidades en desarrollo con Python, integración de servicios externos y procesamiento de datos, como parte de mi formación en Ingeniería en Inteligencia Artificial.
 
-🔗 **[Explorar el proyecto Pokédex]()**
+🔗 **[Explorar el proyecto Pokédex](https://github.com/edwincoca-ai/Curso-Python/blob/main/PROYECTOS-FINALES/PROYECTO-FINAL-MES-4/pokedex.py)**
 
 ---
 
