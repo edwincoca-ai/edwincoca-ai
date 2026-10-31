@@ -15,24 +15,31 @@ También cuento con experiencia profesional en el sector aeronáutico, un área 
 
 ---
 
-## 🚀 Proyecto destacado | Máquina de Galton y campana de Gauss
+## 🚀 Proyecto destacado | Pokédex con Python y PokéAPI
 
-### Simulación estadística y visualización de datos con Python
+### 🐍 Consumo de APIs REST y procesamiento de datos con Python
 
-Desarrollé una simulación computacional de una **Máquina de Galton**, en la que **3,000 bolas realizan 12 decisiones aleatorias** hacia la izquierda o la derecha.
+Desarrollé una aplicación de Pokédex utilizando Python y la API pública **PokéAPI**, con el objetivo de consultar, procesar y almacenar información de Pokémon mediante solicitudes HTTP.
 
-Los resultados se representan mediante un histograma elaborado con **Matplotlib**, permitiendo observar la formación de una distribución binomial y su aproximación a la distribución normal, conocida como **campana de Gauss**.
+El programa permite buscar Pokémon por nombre o identificador y obtener información como su altura, peso, tipos, habilidades y movimientos.
+
+Además, incorpora validación de entradas, manejo de errores y almacenamiento de información en archivos JSON, aplicando buenas prácticas de programación y organización del código.
 
 **Conceptos y herramientas aplicados:**
 
-- Python y programación estructurada
-- Funciones, ciclos y estructuras de control
-- Simulación de procesos aleatorios
-- Probabilidad y estadística
-- Distribución binomial y aproximación normal
-- Visualización de datos con Matplotlib
+- Python y programación estructurada.
+- Funciones, ciclos y estructuras de control.
+- Consumo de APIs REST mediante `requests`.
+- Solicitudes HTTP y procesamiento de respuestas.
+- Manipulación de datos en formato JSON.
+- Manejo de excepciones y códigos de estado HTTP.
+- Validación de entradas del usuario.
+- Lectura, escritura y organización de archivos.
+- Control de versiones con Git y GitHub.
 
-🔗 **[Explorar el proyecto de la Máquina de Galton](https://github.com/edwincoca-ai/Curso-Python/tree/main/PROYECTOS-FINALES/PROYECTO-FINAL-MES-3)**
+**🎯 Objetivo del proyecto:** fortalecer mis habilidades en desarrollo con Python, integración de servicios externos y procesamiento de datos, como parte de mi formación en Ingeniería en Inteligencia Artificial.
+
+🔗 **[Explorar el proyecto Pokédex]()**
 
 ---
 
