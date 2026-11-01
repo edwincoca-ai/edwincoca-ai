@@ -105,6 +105,16 @@ Este programa complementa mi formación en Python y me permitirá desarrollar co
 
 ## 📂 Repositorios principales
 
+
+### 📊 [UCAMP - Data Science](https://github.com/edwincoca-ai/UCAMP-Data-Science)
+
+Repositorio dedicado a mi formación en Ciencia de Datos y Análisis de Datos con Python.
+
+Incluye ejercicios semanales, análisis exploratorio de datos (EDA), visualización de información, estadística y proyectos mensuales desarrollados durante el bootcamp UCAMP.
+
+**Tecnologías:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, VS Code y Google Colab.
+
+
 ### 🐍 [Curso-Python](https://github.com/edwincoca-ai/Curso-Python)
 
 Repositorio de aprendizaje y desarrollo con ejercicios, retos semanales y proyectos finales en Python.
